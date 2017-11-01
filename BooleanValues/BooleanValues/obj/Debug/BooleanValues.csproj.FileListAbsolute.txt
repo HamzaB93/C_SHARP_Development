@@ -1,0 +1,6 @@
+D:\C# Development\BooleanValues\BooleanValues\bin\Debug\BooleanValues.exe.config
+D:\C# Development\BooleanValues\BooleanValues\bin\Debug\BooleanValues.exe
+D:\C# Development\BooleanValues\BooleanValues\bin\Debug\BooleanValues.pdb
+D:\C# Development\BooleanValues\BooleanValues\obj\Debug\BooleanValues.csprojResolveAssemblyReference.cache
+D:\C# Development\BooleanValues\BooleanValues\obj\Debug\BooleanValues.exe
+D:\C# Development\BooleanValues\BooleanValues\obj\Debug\BooleanValues.pdb
