@@ -1,0 +1,5 @@
+D:\C# Development\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe.config
+D:\C# Development\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe
+D:\C# Development\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.pdb
+D:\C# Development\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.exe
+D:\C# Development\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.pdb
