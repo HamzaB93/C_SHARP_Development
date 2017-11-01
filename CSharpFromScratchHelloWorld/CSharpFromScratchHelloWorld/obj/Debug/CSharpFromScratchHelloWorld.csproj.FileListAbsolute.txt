@@ -1,0 +1,6 @@
+D:\C# Development\CSharpFromScratchHelloWorld\CSharpFromScratchHelloWorld\bin\Debug\CSharpFromScratchHelloWorld.exe.config
+D:\C# Development\CSharpFromScratchHelloWorld\CSharpFromScratchHelloWorld\bin\Debug\CSharpFromScratchHelloWorld.exe
+D:\C# Development\CSharpFromScratchHelloWorld\CSharpFromScratchHelloWorld\bin\Debug\CSharpFromScratchHelloWorld.pdb
+D:\C# Development\CSharpFromScratchHelloWorld\CSharpFromScratchHelloWorld\obj\Debug\CSharpFromScratchHelloWorld.csprojResolveAssemblyReference.cache
+D:\C# Development\CSharpFromScratchHelloWorld\CSharpFromScratchHelloWorld\obj\Debug\CSharpFromScratchHelloWorld.exe
+D:\C# Development\CSharpFromScratchHelloWorld\CSharpFromScratchHelloWorld\obj\Debug\CSharpFromScratchHelloWorld.pdb
