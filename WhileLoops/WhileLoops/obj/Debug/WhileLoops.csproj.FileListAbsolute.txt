@@ -1,0 +1,6 @@
+D:\C# Development\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+D:\C# Development\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+D:\C# Development\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+D:\C# Development\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache
+D:\C# Development\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+D:\C# Development\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
