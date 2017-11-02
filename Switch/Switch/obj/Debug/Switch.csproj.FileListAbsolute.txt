@@ -1,0 +1,5 @@
+D:\C# Development\Switch\Switch\bin\Debug\Switch.exe.config
+D:\C# Development\Switch\Switch\bin\Debug\Switch.exe
+D:\C# Development\Switch\Switch\bin\Debug\Switch.pdb
+D:\C# Development\Switch\Switch\obj\Debug\Switch.exe
+D:\C# Development\Switch\Switch\obj\Debug\Switch.pdb
