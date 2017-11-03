@@ -1,0 +1,5 @@
+D:\C# Development\Classes2\Classes2\bin\Debug\Classes2.exe.config
+D:\C# Development\Classes2\Classes2\bin\Debug\Classes2.exe
+D:\C# Development\Classes2\Classes2\bin\Debug\Classes2.pdb
+D:\C# Development\Classes2\Classes2\obj\Debug\Classes2.exe
+D:\C# Development\Classes2\Classes2\obj\Debug\Classes2.pdb
