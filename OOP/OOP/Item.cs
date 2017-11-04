@@ -16,6 +16,12 @@ namespace OOP
         {
             Console.WriteLine("Purchasing {0}", Name);
         }
+
+        public static Item GetItem()
+        {
+            var newItem = new Item { ID = 101, Name = "My Item" };
+            return newItem;
+        }
     }
 
     // Software derives the Item class
