@@ -10,12 +10,27 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            // Create new warehouse
-            var newWarehouse = new Warehouse(101, "Warehouse 1");
-            // use Findandreturnitem to get back an Item object
-            var myItem = newWarehouse.FindAndReturnItem(101);
+            var myComputer = new Computer();
+            myComputer.ID = 102;
 
-            Console.WriteLine("My new item is {0}", myItem.Name);
+            // All computers are items so we make a computer which is of type item
+            Item mySecondComputer = new Computer();
+            // Only get the name and id as we only created it as an item
+            mySecondComputer.ID = 103;
+            // Take mySecondCOmputer and treat it as a computer instead of just an item
+            Computer mySecondComputer2 = mySecondComputer as Computer;
+            mySecondComputer2.CPUType = "i7";
+            string myCPUType = mySecondComputer2.CPUType;
+
+            mySecondComputer.Name = "Jupiter";
+            // COmputer didnt have the method but inherited it
+            mySecondComputer2.Purchase();
+
+            Software mySoftware = new Software();
+            mySoftware.ID = 101;
+            mySoftware.Name = "Foo";
+            mySoftware.ISBN = "1234";
+            mySoftware.Purchase();
         }
     }
 }
