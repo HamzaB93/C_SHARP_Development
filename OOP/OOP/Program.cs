@@ -34,9 +34,18 @@ namespace OOP
 
 
             //Item someItem = new Item();
-            Item newItem = Item.GetItem();
+            //Item newItem = Item.GetItem();
 
-            Console.WriteLine ("New Item ID  = {0}, Name = {1}", newItem.ID, newItem.Name);
+            // Get Items list
+            // Static method can call form the Item class iteslf
+            List<Item> myItems = Item.GetItems(20); 
+
+            foreach (Item i in myItems)
+            {
+                Console.WriteLine("New Item ID  = {0}, Name = {1}", i.ID, i.Name);
+            }
+            
+                    //Console.WriteLine ("New Item ID  = {0}, Name = {1}", newItem.ID, newItem.Name);
         }
     }
 }

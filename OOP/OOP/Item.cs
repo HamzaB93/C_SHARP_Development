@@ -17,10 +17,31 @@ namespace OOP
             Console.WriteLine("Purchasing {0}", Name);
         }
 
-        public static Item GetItem()
+        //public static Item GetItem()
+        //{
+        //    var newItem = new Item { ID = 101, Name = "My Item" };
+        //    return newItem;
+        //}
+
+        // Get list of items
+        public static List<Item> GetItems(int numsToGet)
         {
-            var newItem = new Item { ID = 101, Name = "My Item" };
-            return newItem;
+            // Generate a random number
+            var random = new Random();
+            // MAke new list 
+            var newList = new List<Item>();
+            // Define new item
+            Item newItem;
+            
+            // Iterate the amount of numbers to get
+            for (int i = 0; i < numsToGet; i++)
+            {
+                // Assign values to the newItem we defined
+                newItem = new Item { ID = random.Next(), Name = "My Item " + i.ToString() };
+                newList.Add(newItem);
+            }
+            // Return the populated list
+            return newList;
         }
     }
 
