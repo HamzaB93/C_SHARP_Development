@@ -1,0 +1,6 @@
+D:\C# Development\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe.config
+D:\C# Development\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe
+D:\C# Development\QueueCollection\QueueCollection\bin\Debug\QueueCollection.pdb
+D:\C# Development\QueueCollection\QueueCollection\obj\Debug\QueueCollection.csprojResolveAssemblyReference.cache
+D:\C# Development\QueueCollection\QueueCollection\obj\Debug\QueueCollection.exe
+D:\C# Development\QueueCollection\QueueCollection\obj\Debug\QueueCollection.pdb
