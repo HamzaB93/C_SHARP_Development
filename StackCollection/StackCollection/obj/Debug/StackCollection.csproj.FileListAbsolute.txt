@@ -1,0 +1,6 @@
+D:\C# Development\StackCollection\StackCollection\bin\Debug\StackCollection.exe.config
+D:\C# Development\StackCollection\StackCollection\bin\Debug\StackCollection.exe
+D:\C# Development\StackCollection\StackCollection\bin\Debug\StackCollection.pdb
+D:\C# Development\StackCollection\StackCollection\obj\Debug\StackCollection.csprojResolveAssemblyReference.cache
+D:\C# Development\StackCollection\StackCollection\obj\Debug\StackCollection.exe
+D:\C# Development\StackCollection\StackCollection\obj\Debug\StackCollection.pdb
