@@ -1,0 +1,6 @@
+D:\C# Development\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+D:\C# Development\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+D:\C# Development\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+D:\C# Development\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+D:\C# Development\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+D:\C# Development\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
