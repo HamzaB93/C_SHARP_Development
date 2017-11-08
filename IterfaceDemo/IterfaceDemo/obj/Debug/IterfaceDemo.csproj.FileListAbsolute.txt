@@ -1,0 +1,6 @@
+D:\C# Development\IterfaceDemo\IterfaceDemo\bin\Debug\IterfaceDemo.exe.config
+D:\C# Development\IterfaceDemo\IterfaceDemo\bin\Debug\IterfaceDemo.exe
+D:\C# Development\IterfaceDemo\IterfaceDemo\bin\Debug\IterfaceDemo.pdb
+D:\C# Development\IterfaceDemo\IterfaceDemo\obj\Debug\IterfaceDemo.csprojResolveAssemblyReference.cache
+D:\C# Development\IterfaceDemo\IterfaceDemo\obj\Debug\IterfaceDemo.exe
+D:\C# Development\IterfaceDemo\IterfaceDemo\obj\Debug\IterfaceDemo.pdb
