@@ -1,0 +1,6 @@
+D:\C# Development\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\C# Development\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\C# Development\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\C# Development\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+D:\C# Development\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\C# Development\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb
