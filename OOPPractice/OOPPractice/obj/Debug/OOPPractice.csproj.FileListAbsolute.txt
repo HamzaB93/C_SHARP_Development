@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
+c:\users\user\documents\visual studio 2017\Projects\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe
+c:\users\user\documents\visual studio 2017\Projects\OOPPractice\OOPPractice\bin\Debug\OOPPractice.pdb
+c:\users\user\documents\visual studio 2017\Projects\OOPPractice\OOPPractice\obj\Debug\OOPPractice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\OOPPractice\OOPPractice\obj\Debug\OOPPractice.exe
+c:\users\user\documents\visual studio 2017\Projects\OOPPractice\OOPPractice\obj\Debug\OOPPractice.pdb
