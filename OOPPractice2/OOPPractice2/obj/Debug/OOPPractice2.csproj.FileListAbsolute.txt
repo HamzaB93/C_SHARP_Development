@@ -1,0 +1,6 @@
+D:\C# Development\OOPPractice2\OOPPractice2\bin\Debug\OOPPractice2.exe.config
+D:\C# Development\OOPPractice2\OOPPractice2\bin\Debug\OOPPractice2.exe
+D:\C# Development\OOPPractice2\OOPPractice2\bin\Debug\OOPPractice2.pdb
+D:\C# Development\OOPPractice2\OOPPractice2\obj\Debug\OOPPractice2.csprojResolveAssemblyReference.cache
+D:\C# Development\OOPPractice2\OOPPractice2\obj\Debug\OOPPractice2.exe
+D:\C# Development\OOPPractice2\OOPPractice2\obj\Debug\OOPPractice2.pdb

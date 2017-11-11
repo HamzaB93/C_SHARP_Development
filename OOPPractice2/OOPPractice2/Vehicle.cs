@@ -29,6 +29,11 @@ namespace OOPPractice2
         {
             FuelStatus -= fuelUsed;
         }
+
+        public void FillUpFuel(int fuelToFillUp)
+        {
+            FuelStatus += fuelToFillUp;
+        }
     }
     // Inheritance Car is a vehicle
     class Car : Vehicle
@@ -60,6 +65,32 @@ namespace OOPPractice2
                 Console.WriteLine("You need to fill up the tank with diesl");
             else
                 Console.WriteLine("Your tank is empty, you need to fill up with diesel otherwise you cant drive");
+        }
+    }
+
+    class Hyrbrid : PetrolCar
+    {
+        public int Battery { get; set; }
+
+        // Overloading
+        public void CheckFuelStatus(int amountOfFuel, int battery)
+        {
+            if (amountOfFuel == 100 && battery == 100)
+            {
+                Console.WriteLine("Your fuel and battery are at {0}, youre full.", amountOfFuel);
+            }
+            else if (amountOfFuel < 100 && battery == 100)
+            {
+                Console.WriteLine("Your fuel is at {0}, but your battery is at {1}. Youre covered", amountOfFuel, battery);
+            }
+            else
+                Console.WriteLine("Fill both fuel and battery");
+        }
+
+        public void Drive(int fuelUsed, int batteryUsed)
+        {
+            FuelStatus -= fuelUsed;
+            Battery -= batteryUsed;
         }
     }
 
