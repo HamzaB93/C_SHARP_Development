@@ -15,6 +15,14 @@ namespace OOPPractice2
         // Fuel out of 100
         public int FuelStatus { get; set; }
 
+        public Vehicle(string Name, string Registration, bool Insurance, int FuelStatus)
+        {
+            this.Name = Name;
+            this.Registration = Registration;
+            this.Insurance = Insurance;
+            this.FuelStatus = FuelStatus;
+        }
+
         public virtual void CheckFuelStatus(int amountOfFuel)
         {
             if (amountOfFuel == 100)
@@ -38,11 +46,25 @@ namespace OOPPractice2
     // Inheritance Car is a vehicle
     class Car : Vehicle
     {
-        
+        public Car(string Name, string Registration, bool Insurance, int FuelStatus) : base(Name, Registration, Insurance, FuelStatus)
+        {
+            this.Name = Name;
+            this.Registration = Registration;
+            this.Insurance = Insurance;
+            this.FuelStatus = FuelStatus;
+        }
     }
     // A petrol car is a car
     class PetrolCar : Car
     {
+        public PetrolCar(string Name, string Registration, bool Insurance, int FuelStatus) : base(Name, Registration, Insurance, FuelStatus)
+        {
+            this.Name = Name;
+            this.Registration = Registration;
+            this.Insurance = Insurance;
+            this.FuelStatus = FuelStatus;
+        }
+
         public override void CheckFuelStatus(int amountOfFuel)
         {
             if (amountOfFuel == 100)
@@ -57,6 +79,14 @@ namespace OOPPractice2
     // A deisel car is a car
     class DieselCar : Car
     {
+        public DieselCar(string Name, string Registration, bool Insurance, int FuelStatus) : base(Name, Registration, Insurance, FuelStatus)
+        {
+            this.Name = Name;
+            this.Registration = Registration;
+            this.Insurance = Insurance;
+            this.FuelStatus = FuelStatus;
+        }
+
         public override void CheckFuelStatus(int amountOfFuel)
         {
             if(amountOfFuel == 100)
@@ -68,9 +98,18 @@ namespace OOPPractice2
         }
     }
 
-    class Hyrbrid : PetrolCar
+    class Hybrid : PetrolCar
     {
         public int Battery { get; set; }
+
+        public Hybrid(string Name, string Registration, bool Insurance, int FuelStatus, int Battery) : base(Name, Registration, Insurance, FuelStatus)
+        {
+            this.Name = Name;
+            this.Registration = Registration;
+            this.Insurance = Insurance;
+            this.FuelStatus = FuelStatus;
+            this.Battery = Battery;
+        }
 
         // Overloading
         public void CheckFuelStatus(int amountOfFuel, int battery)
