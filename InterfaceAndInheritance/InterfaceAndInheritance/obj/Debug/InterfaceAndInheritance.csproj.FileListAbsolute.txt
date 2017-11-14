@@ -1,0 +1,6 @@
+D:\C# Development\InterfaceAndInheritance\InterfaceAndInheritance\bin\Debug\InterfaceAndInheritance.exe.config
+D:\C# Development\InterfaceAndInheritance\InterfaceAndInheritance\bin\Debug\InterfaceAndInheritance.exe
+D:\C# Development\InterfaceAndInheritance\InterfaceAndInheritance\bin\Debug\InterfaceAndInheritance.pdb
+D:\C# Development\InterfaceAndInheritance\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.csprojResolveAssemblyReference.cache
+D:\C# Development\InterfaceAndInheritance\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.exe
+D:\C# Development\InterfaceAndInheritance\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.pdb
